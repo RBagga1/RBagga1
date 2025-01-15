@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 My name is Ram!
 
-<!--
-**RBagga1/RBagga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning NextJS to get better at website development projects!
+- 👯 I’m looking to collaborate on projects related to distributed systems.
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/ram-bagga), [E-mail](mailto:rambagga.gb@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My recently researched private projects have been:
+- [Project Neomantis](https://query.bio): A distributed systems implementation by Stony Brook University to help query gene sequence data
+- Scraping and analyzing financial data via LLMs
+- Fine tuning AI models
+- Storing data more efficiently in sqllite databases
+- Writing multi-threaded programs to help proces jobs efficiently
