@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Ram, and I'm currently a senior at Stony Brook University. I love to work on code that is able to help as many people as possible by making their lives easier. Some of the projects I am currently working on are:
+
+* A notetaking app that leverages LLM integration to help generate questions and flashcards to help you study.
+* Research at SBU. A distributed system for querying sequenced gene data [query.bio](query.bio)
+* A tool to help generate graphs via a custom and easy to remember interpreted language.
+* A tool which scrapes YouTube videos, uses LLMs to parse their transcripts to look for any useful information about stock price movements to easily get portfolio recommendations.
+
 <!--
 **RBagga1/RBagga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
